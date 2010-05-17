@@ -1,0 +1,31 @@
+Othello
+By Nick Ewing
+
+Overview
+========
+Contained in this archive is an implementation of the board game
+Othello.  The game supports Human vs. Computer or Human vs. Human play
+(and technically Computer vs. Computer, but not through the GUI).
+The easy difficulty is simply a random strategy, the medium difficulty
+is a greedy strategy and the hard difficulty is a minimax algorithm
+with alpha-beta pruning.
+
+Building/Running
+================
+To build and run, use open the XCode project and select Build and Run
+from the menu.
+
+Operations
+==========
+The game can be played through the main window.  Player and difficulty
+settings are available through the File menu.
+
+Known Problems
+==============
+The "hard" difficulty (the default difficulty) is seemingly less
+difficult than the "medium" difficulty.  It seems the deeper the agent
+looks into possible future moves, the worse its decisions get.  The
+algorithm has been checked thoroughly leaving the most likely cause
+to be some unknown aspect of the game not being represented by the
+scoring or weighting system.
+
