@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 // A random strategy
 // chooses a random legal move if possible, otherwise passes
 

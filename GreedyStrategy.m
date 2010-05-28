@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 #import "GreedyStrategy.h"
 #import "Strategy.h"
 #include <limits.h>

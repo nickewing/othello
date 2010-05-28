@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 // Abstract game strategy
 // Provides methods for communicating with the controller
 // and board state generation

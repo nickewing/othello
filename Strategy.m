@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 #import "Strategy.h"
 
 @implementation Strategy

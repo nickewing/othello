@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 #import "AlphaBetaStrategy.h"
 #include <limits.h>
 

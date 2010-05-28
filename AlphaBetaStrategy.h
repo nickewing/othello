@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 // Alpha beta strategy
 // Uses min-max with alpha-beta pruning to find the next
 // best move given possible future moves

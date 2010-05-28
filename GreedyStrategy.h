@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 // A greedy strategy
 // Picks the move that maximizes the next state score given
 // weighted states

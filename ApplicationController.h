@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 // Main controller for game, handles GUI interactions
 
 #import <Cocoa/Cocoa.h>

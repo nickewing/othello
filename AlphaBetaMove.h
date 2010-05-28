@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 // Stores a score and a move for the alpha-beta algorithm
 
 #import <Cocoa/Cocoa.h>

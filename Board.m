@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 #import "Board.h"
 #import "Coord.h"
 #include <string.h>

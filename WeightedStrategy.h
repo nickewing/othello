@@ -1,3 +1,5 @@
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
+
 // Abstract weighted strategy
 // Provides weighting method for board states
 

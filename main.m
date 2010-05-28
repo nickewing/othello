@@ -1,10 +1,4 @@
-//
-//  main.m
-//  Othello
-//
-//  Created by Nicholas Ewing on 4/6/10.
-//  Copyright Kuzoa, LLC 2010. All rights reserved.
-//
+// Copyright (c) 2010 Nick Ewing <nick@nickewing.net>
 
 #import <Cocoa/Cocoa.h>
 
